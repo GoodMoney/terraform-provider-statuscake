@@ -1,9 +1,12 @@
+
+*This was forked because of one major problems in the .2 version from HashiCorp's provider repo*
+
+_The master branch currently does not check SSL certificates, nor can you enable it_ but the check will read OK.
+
+
 Terraform Provider
 ==================
 
-This was forked because of one major problems in the .2 version from HashiCorp's provider repo
-
-_The master branch currently does not check SSL certificates, nor can you enable it_ but the check will read OK.
 
 - Website: https://www.terraform.io
 - [![Gitter chat](https://badges.gitter.im/hashicorp-terraform/Lobby.png)](https://gitter.im/hashicorp-terraform/Lobby)
